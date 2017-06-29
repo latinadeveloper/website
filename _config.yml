@@ -9,6 +9,9 @@ url: "" # the base hostname & protocol for your site
 tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
+github_url: https://github.com/littled-rb/website
+meetup_url: https://www.meetup.com/TechmillDenton/
+
 # build settings
 markdown: kramdown
 
